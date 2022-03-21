@@ -8,6 +8,4 @@ In addition to the complementary characteristics of the two models, we also show
 <br/>
 The experiment showed that in many scenarios, the merging of CART and kNN resulted in improvement of both computation time and accuracy over the baseline CART and kNN. <br>
 <br/>
-This project was presented at [The 2021 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/anaheim2021/). <br>
-<br/>
-<sub>Codes will be uploaded shortly.</sub>
+This project was presented at [The 2021 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/anaheim2021/).
